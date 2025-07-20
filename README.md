@@ -4,7 +4,7 @@ I am a postgraduate researcher in **Diagnostics, Data, and Digital Health** from
 
 ---
 
-## 👀 Research Interests
+## Research Interests
 - **Medical Imaging**: Developing imaging biomarkers and AI models for diagnostic precision and treatment response analysis.
 - **Healthcare AI**: Leveraging machine learning to optimize diagnostics, risk stratification, and clinical workflows.
 - **Computational Modeling**: Applying advanced statistical and deep learning techniques to complex biomedical datasets.
